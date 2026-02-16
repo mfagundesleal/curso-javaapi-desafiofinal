@@ -1,0 +1,3 @@
+- [X] Criar uma aplicação para consultar a API ViaCEP (https://viacep.com.br/)
+- [X] Menu para o usuário informar o CEP para busca
+- [X] Geração de um arquivo .JSON com os dados do endereço.
